@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4658fa21.css",
+    "main.js": "/static/js/main.cbd78ed1.js",
+    "static/media/summon.png": "/static/media/summon.4e0551a5114239a467be.png",
+    "static/media/background62.jpg": "/static/media/background62.b00023dd20893ad36291.jpg",
+    "static/media/deckCards.png": "/static/media/deckCards.62bcf699d10340137bf9.png",
+    "static/media/logowebsite.png": "/static/media/logowebsite.6a2d790d4d99e86c4c48.png",
+    "static/media/coinsLogo.png": "/static/media/coinsLogo.8459a358588c2d9f68eb.png",
+    "static/media/carrito.png": "/static/media/carrito.45a890f0c47732183b96.png",
+    "static/media/background-fire.jpg": "/static/media/background-fire.fb2ab90a32ecbf7ffa71.jpg",
+    "static/media/background7.jpg": "/static/media/background7.8240e1c2a688d714c194.jpg",
+    "static/media/playstore.png": "/static/media/playstore.100ae89346d1e8fedd86.png",
+    "static/media/android.png": "/static/media/android.7fe446ac07060350e5c7.png",
+    "static/media/NorseBold-2Kge.otf": "/static/media/NorseBold-2Kge.5efe60ef5042faec1224.otf",
+    "static/media/drag.png": "/static/media/drag.08a7f36dfec9547ff451.png",
+    "index.html": "/index.html",
+    "main.4658fa21.css.map": "/static/css/main.4658fa21.css.map",
+    "main.cbd78ed1.js.map": "/static/js/main.cbd78ed1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4658fa21.css",
+    "static/js/main.cbd78ed1.js"
+  ]
+}
